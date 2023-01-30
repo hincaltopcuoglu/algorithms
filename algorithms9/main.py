@@ -7,4 +7,4 @@ for i in range(1,11):
         product = product * i
         i += 1
         if i == 11:
-            print(product)
+            print(product,i)
